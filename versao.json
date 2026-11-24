@@ -1,9 +1,9 @@
 {
- "version": "7.7",
+ "version": "7.7.1",
  "url": "https://raw.githubusercontent.com/jhoni1517/DiscoPro/main/DiscoPro.exe",
- "sha256": "6616a91ee78a4b90338256d16dd9b38c660eae159ece51d07e5cbac678ba155f",
- "size": 33880936,
- "notes": "• MODO PROTEGIDO (ligado por padrão): não mexe em serviços, drivers, impressoras, dispositivos nem componentes do Windows. A otimização só apaga temporários e cache.\n• CORREÇÃO: a otimização bruta antiga apagava driver de impressora (ex.: Epson TM-T20 'driver indisponível'). Não acontece mais.\n• Impressoras › 'Restaurar driver automaticamente': traz de volta SÓ o driver apagado, a partir dos pontos de restauração — funciona mesmo semanas depois.",
+ "sha256": "49fafc5e528286ed60b6e4a42b5b4d8a92d8a2c70e99ba66635d8f710e2c0988",
+ "size": 33896831,
+ "notes": "• Impressoras › 'Voltar impressoras automaticamente': devolve impressora que sumiu ou ficou 'driver indisponível' (driver, porta e todas as configurações) a partir do ponto de restauração, sem restaurar o resto do PC.\n• Corrigidas as datas dos pontos de restauração (31/12/1969).\n• Modo protegido (desde a 7.7): o Disco Pro não mexe em sistema, drivers, impressoras e dispositivos.",
  "portable_url": "https://raw.githubusercontent.com/jhoni1517/DiscoPro/main/DiscoPro_portatil.zip",
  "date": "2026-11-24"
 }
