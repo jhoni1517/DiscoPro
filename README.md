@@ -1,4 +1,4 @@
-# Disco Pro 7.6
+# Disco Pro 7.7
 
 Cuidado completo do PC com Windows 10/11.
 
@@ -9,10 +9,9 @@ Cuidado completo do PC com Windows 10/11.
 Depois de instalado, o próprio Disco Pro procura versão nova ao abrir e oferece atualizar
 (ou atualiza sozinho, se você escolher). Pela linha de comando: `DiscoPro.exe --atualizar`.
 
-## Novidades da 7.6
-• Atualização automática: ao abrir, o Disco Pro pergunta se quer atualizar (ou atualiza sozinho, se você escolher).
-• Atualiza também as outras cópias neste PC (portátil, pendrive conectado, agente).
-• Linha de comando: DiscoPro.exe --atualizar
-• 7.5: placa de vídeo refeita (NVML, Diagnóstico, recomendação por placa, ajuste automático, monitor novo, aparências).
+## Novidades da 7.7
+• MODO PROTEGIDO (ligado por padrão): não mexe em serviços, drivers, impressoras, dispositivos nem componentes do Windows. A otimização só apaga temporários e cache.
+• CORREÇÃO: a otimização bruta antiga apagava driver de impressora (ex.: Epson TM-T20 'driver indisponível'). Não acontece mais.
+• Impressoras › 'Restaurar driver automaticamente': traz de volta SÓ o driver apagado, a partir dos pontos de restauração — funciona mesmo semanas depois.
 
-sha256 do exe: `4f94a998f4e7eb1513b20d8a5e6b83fe02fae5b1b959ceb222da6d553e8ac92f`
+sha256 do exe: `6616a91ee78a4b90338256d16dd9b38c660eae159ece51d07e5cbac678ba155f`
