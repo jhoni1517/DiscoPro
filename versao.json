@@ -1,0 +1,9 @@
+{
+ "version": "7.6",
+ "url": "https://raw.githubusercontent.com/jhoni1517/DiscoPro/main/DiscoPro.exe",
+ "sha256": "4f94a998f4e7eb1513b20d8a5e6b83fe02fae5b1b959ceb222da6d553e8ac92f",
+ "size": 33858128,
+ "notes": "• Atualização automática: ao abrir, o Disco Pro pergunta se quer atualizar (ou atualiza sozinho, se você escolher).\n• Atualiza também as outras cópias neste PC (portátil, pendrive conectado, agente).\n• Linha de comando: DiscoPro.exe --atualizar\n• 7.5: placa de vídeo refeita (NVML, Diagnóstico, recomendação por placa, ajuste automático, monitor novo, aparências).",
+ "portable_url": "https://raw.githubusercontent.com/jhoni1517/DiscoPro/main/DiscoPro_portatil.zip",
+ "date": "2026-11-24"
+}
